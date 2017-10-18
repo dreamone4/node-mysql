@@ -1,0 +1,23 @@
+{
+  "name": "node-mysql",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreamone4/node-mysql.git"
+  },
+  "author": "Roberto Ramadhin <roberto.ramadhin@nl.abnamro.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dreamone4/node-mysql/issues"
+  },
+  "homepage": "https://github.com/dreamone4/node-mysql#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "mysql": "^2.15.0"
+  }
+}
